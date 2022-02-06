@@ -1,3 +1,3 @@
 # Simple Web Site
-This website showcases some simple CSS to show text. The text is by Cynthia Teeters, and the image provided is by Markus Winkler. 
-This showcases how to use public domain and why it is important to use it. While also trying to find content as a web developer and what to use. Also it explains the meaning behind the law.
+This website showcases some simple CSS to show text. The poem is by James Jeffrey Roche, and the image provided is by Sander Dewerte. 
+This showcases the use of a poem in the public domain and it is a simple web page of it. This poem cites the owner of the poem while also disppaying a picture that goes along with it.
